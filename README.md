@@ -68,7 +68,7 @@ git clone https://github.com/Krushna-Chandra/Login-form.git
 
 ## 🌐 Live Demo
 
-> *(Optional: Deploy using GitHub Pages and paste the link here)*
+> [url](https://krushna-chandra.github.io/Login-form/)
 
 ---
 
